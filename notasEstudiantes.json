@@ -2,27 +2,27 @@
    {
       "alumno":"Pedro",
       "nota":9.09,
-      "ranking":10,
+      "ranking":10
    },
    {
       "alumno":"Juan",
       "nota":4,
-      "ranking":150,
+      "ranking":150
    },
    {
       "alumno":"Jaime",
       "nota":3,
-      "ranking":123,
+      "ranking":123
    },
    {
       "alumno":"Jesus",
       "nota":5,
-      "ranking":180,
+      "ranking":180
    },
    {
       "alumno":"Amanda",
       "nota":8,
-      "ranking":40,
+      "ranking":40
    },
    {
       "alumno":"Carlos",
@@ -32,16 +32,16 @@
    {
       "alumno":"Olga",
       "nota":9,
-      "ranking":15,
+      "ranking":15
    },
    {
       "alumno":"Carmen",
       "nota":8,
-      "ranking":88,
+      "ranking":88
    },
    {
       "alumno":"Javier",
       "nota":3,
-      "ranking":14,
+      "ranking":14
    }
 ]
